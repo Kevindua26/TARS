@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local trace log files
+.trace.json
+*.tmp
+
+# Environments & IDE
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
